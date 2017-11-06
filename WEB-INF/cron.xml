@@ -1,0 +1,19 @@
+<cronentries>
+
+
+<cron>
+<url>/resulttracker</url>
+<schedule>every 10 minutes</schedule>
+</cron>
+
+<cron>
+<url>/visit</url>
+<schedule>every 30 minutes</schedule>
+</cron>
+
+<cron>
+<url>/afflatus</url>
+<schedule>every 72 hours </schedule>
+</cron>
+
+</cronentries>
